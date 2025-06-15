@@ -1,0 +1,1 @@
+ bu kodda çoklu iş parçacığı (multi-threading) kullanarak coder fonksiyonunu 27 farklı kombinasyon için eşzamanlı olarak çalıştırdık.
